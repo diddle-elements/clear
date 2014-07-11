@@ -11,7 +11,8 @@
     "div",
     "both",
     "left",
-    "right"
+    "right",
+    "web-components"
   ],
   "license": "MIT",
   "ignore": [
